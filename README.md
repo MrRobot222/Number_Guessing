@@ -1,6 +1,6 @@
 **Hello everyone i'm Elliot ALderson. Who making these codes being part of #100days of code**
 ***
-#Instructions
+# Instructions
 ***
 >`git clone https://github.com/MrRobot222/Number_Guessing.git`
 
@@ -15,7 +15,7 @@
 >`python3 GUI_Based.py`
 ***
 
-#Follow me on 
+# Follow me on 
 
 *** 
 <a href="https://t.me/MrRobotFsec">
