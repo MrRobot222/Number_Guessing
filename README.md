@@ -1,4 +1,4 @@
-**Hello everyone i'm Elliot ALderson. Who making these codes being part of #100days of code**
+**Hello everyone i'm Elliot ALderson. Who making these codes being part of #100daysofcode**
 ***
 # Instructions
 ***
